@@ -12,8 +12,8 @@
       "activation": "relu"
     },
     "weights": [
-      "W1",
-      "b1"
+      "W0",
+      "b0"
     ]
   },
   {
@@ -23,8 +23,8 @@
       "activation": "relu"
     },
     "weights": [
-      "W2",
-      "b2"
+      "W1",
+      "b1"
     ]
   },
   {
@@ -34,8 +34,8 @@
       "activation": "softmax"
     },
     "weights": [
-      "W3",
-      "b3"
+      "W2",
+      "b2"
     ]
   }
 ]
