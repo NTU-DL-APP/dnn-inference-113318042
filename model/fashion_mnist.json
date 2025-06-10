@@ -31,33 +31,11 @@
     "name": "Dense_3",
     "type": "Dense",
     "config": {
-      "activation": "relu"
+      "activation": "softmax"
     },
     "weights": [
       "W3",
       "b3"
-    ]
-  },
-  {
-    "name": "Dense_4",
-    "type": "Dense",
-    "config": {
-      "activation": "relu"
-    },
-    "weights": [
-      "W4",
-      "b4"
-    ]
-  },
-  {
-    "name": "Dense_5",
-    "type": "Dense",
-    "config": {
-      "activation": "softmax"
-    },
-    "weights": [
-      "W5",
-      "b5"
     ]
   }
 ]
